@@ -1,1 +1,3 @@
-console.log("Hello world!");
+import { classPractice } from "./class/classPractice";
+
+classPractice();
