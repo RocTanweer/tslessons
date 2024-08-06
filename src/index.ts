@@ -1,3 +1,3 @@
-import { classPractice } from "./class/classPractice";
+import { typePractice } from "./type/typePractice";
 
-classPractice();
+typePractice();
